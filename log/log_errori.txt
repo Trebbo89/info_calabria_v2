@@ -1,0 +1,66 @@
+[15/10/2024 12:09:22] - [ERRORE] - No engine for filetype: ''
+[15/10/2024 12:09:29] - [ERRORE] - No engine for filetype: ''
+[15/10/2024 12:10:07] - [ERRORE] - No engine for filetype: ''
+[15/10/2024 12:16:14] - [ERRORE] - generate_course_file() No engine for filetype: ''
+[15/10/2024 12:17:11] - [ERRORE] generate_course_file() - No engine for filetype: ''
+[15/10/2024 14:44:25] - [ERRORE] generate_course_file() - 'dict' object has no attribute 'student'
+[15/10/2024 14:45:51] - [ERRORE] generate_course_file() - [Errno 13] Permission denied: 'C:\\Users\\l.semproni\\Desktop\\generazione report excel/file generazione corso/15-10-2024_Corso di prova.xlsx'
+[15/10/2024 14:58:00] - [ERRORE] generate_course_file() - 'Worksheet' object has no attribute 'column_dimension'
+[15/10/2024 15:15:24] - [ERRORE] generate_course_file() - [Errno 13] Permission denied: 'C:\\Users\\l.semproni\\Desktop\\generazione report excel/file generazione corso/15-10-2024_Corso di prova.xlsx'
+[15/10/2024 16:12:04] - [ERRORE] read_report_mynaparrot() - 0
+[15/10/2024 16:28:07] - [ERRORE] read_report_mynaparrot() - 'Created'
+[15/10/2024 19:00:27] - [ERRORE] read_report_mynaparrot() - calcute_() missing 2 required positional arguments: 'date' and 'tollerability'
+[15/10/2024 19:01:20] - [ERRORE] calcute_() - Invalid isoformat string: '10-10-2024 14:59'
+[15/10/2024 19:01:49] - [ERRORE] calcute_() - Invalid isoformat string: '10-10-2024 18:00'
+[15/10/2024 19:04:53] - [ERRORE] calcute_() - '>' not supported between instances of 'str' and 'int'
+[15/10/2024 19:05:19] - [ERRORE] calcute_() - '>' not supported between instances of 'str' and 'int'
+[16/10/2024 10:50:05] - [ERRORE] read_report_mynaparrot() - 0
+[16/10/2024 10:51:28] - [ERRORE] read_report_mynaparrot() - Location based indexing can only have [integer, integer slice (START point is INCLUDED, END point is EXCLUDED), listlike of integers, boolean array] types
+[16/10/2024 12:19:46] - [ERRORE] student_access_control() - Invalid isoformat string: ''
+[16/10/2024 12:19:47] - [ERRORE] generate_students_array_for_excel() - 'NoneType' object is not iterable
+[16/10/2024 14:19:20] - [ERRORE] student_access_control() - Invalid isoformat string: ''
+[16/10/2024 14:19:21] - [ERRORE] generate_students_array_for_excel() - 'NoneType' object is not iterable
+[16/10/2024 14:20:16] - [ERRORE] student_access_control() - Invalid isoformat string: ''
+[16/10/2024 14:20:18] - [ERRORE] generate_students_array_for_excel() - 'NoneType' object is not iterable
+[16/10/2024 14:21:33] - [ERRORE] student_access_control() - Invalid isoformat string: ''
+[16/10/2024 14:21:34] - [ERRORE] generate_students_array_for_excel() - 'NoneType' object is not iterable
+[16/10/2024 14:23:51] - [ERRORE] student_access_control() - Invalid isoformat string: ''
+[16/10/2024 14:23:52] - [ERRORE] generate_students_array_for_excel() - 'NoneType' object is not iterable
+[16/10/2024 14:27:21] - [ERRORE] student_access_control() - Invalid isoformat string: ''
+[16/10/2024 14:27:22] - [ERRORE] generate_students_array_for_excel() - 'NoneType' object is not iterable
+[16/10/2024 14:32:53] - [ERRORE] calculation_of_course_minutes() - strptime() argument 1 must be str, not datetime.datetime
+[16/10/2024 14:32:53] - [ERRORE] student_access_control() - '>=' not supported between instances of 'NoneType' and 'int'
+[16/10/2024 14:32:55] - [ERRORE] generate_students_array_for_excel() - 'NoneType' object is not iterable
+[16/10/2024 14:41:15] - [ERRORE] calculation_of_course_minutes() - strptime() argument 1 must be str, not datetime.datetime
+[16/10/2024 14:42:09] - [ERRORE] student_access_control() - '>=' not supported between instances of 'NoneType' and 'int'
+[16/10/2024 14:42:10] - [ERRORE] generate_students_array_for_excel() - 'NoneType' object is not iterable
+[16/10/2024 15:46:23] - [ERRORE] check_date_is_greather() - descriptor 'strftime' for 'datetime.date' objects doesn't apply to a 'str' object
+[16/10/2024 15:46:23] - [ERRORE] students_date_time_adjustment() - cannot unpack non-iterable NoneType object
+[16/10/2024 15:49:44] - [ERRORE] check_date_is_greather() - descriptor 'strftime' for 'datetime.date' objects doesn't apply to a 'str' object
+[16/10/2024 15:49:45] - [ERRORE] students_date_time_adjustment() - cannot unpack non-iterable NoneType object
+[16/10/2024 15:50:09] - [ERRORE] calculation_of_course_minutes() - strptime() argument 1 must be str, not datetime.datetime
+[16/10/2024 15:50:10] - [ERRORE] calculation_of_course_minutes() - strptime() argument 1 must be str, not datetime.datetime
+[16/10/2024 15:50:11] - [ERRORE] students_date_time_adjustment() - '<=' not supported between instances of 'NoneType' and 'int'
+[16/10/2024 17:42:45] - [ERRORE] import_students_from_file() - list indices must be integers or slices, not str
+[16/10/2024 17:42:46] - [ERRORE] operations_input_file_get_students() - list indices must be integers or slices, not str
+[16/10/2024 18:09:15] - [ERRORE] check_absent_students() - string indices must be integers
+[16/10/2024 18:11:18] - [ERRORE] add_blank_row_for_excel() - 'str' object has no attribute 'append'
+[16/10/2024 18:14:25] - [ERRORE] add_blank_row_for_excel() - 'str' object has no attribute 'append'
+[16/10/2024 18:33:04] - [ERRORE] insert_details_course_section() - time data '10-10-2024 15:00' does not match format '%H:%M'
+[17/10/2024 11:12:16] - [ERRORE] read_report_mynaparrot() - generate_excel_report() missing 1 required positional argument: 'course_name'
+[17/10/2024 12:51:46] - [ERRORE] generate_excel_report() - [Errno 13] Permission denied: 'C:\\Users\\l.semproni\\Desktop\\generazione report excel/generazione report personalizzato/Report personalizzato.xlsx'
+[17/10/2024 12:52:22] - [ERRORE] generate_excel_report() - object of type 'int' has no len()
+[17/10/2024 12:53:28] - [ERRORE] import_students_from_file() - 'NOME CORSO'
+[17/10/2024 12:53:29] - [ERRORE] operations_input_file_get_students() - 'students'
+[17/10/2024 12:54:01] - [ERRORE] set_border_column_excel() - 'Cell' object has no attribute 'valueclear'
+[17/10/2024 15:32:29] - [ERRORE] generate_excel_report() - [Errno 13] Permission denied: 'C:\\Users\\l.semproni\\Desktop\\generazione report excel/generazione report personalizzato/Report personalizzato.xlsx'
+[17/10/2024 16:46:00] - [ERRORE] generate_excel_report() - [Errno 13] Permission denied: 'C:\\Users\\l.semproni\\Desktop\\generazione report excel/generazione report personalizzato/Report personalizzato.xlsx'
+[17/10/2024 16:46:13] - [ERRORE] generate_excel_report() - 'tuple' object has no attribute 'font'
+[17/10/2024 17:54:13] - [ERRORE] generate_excel_report() - [Errno 13] Permission denied: 'C:\\Users\\l.semproni\\Desktop\\generazione report excel/generazione report personalizzato/Report personalizzato.xlsx'
+[17/10/2024 18:12:05] - [ERRORE] check_date_is_greather() - time data '10/10/2024 14:59' does not match format '%d-%m-%Y %H:%M'
+[17/10/2024 18:12:06] - [ERRORE] students_date_time_adjustment() - cannot unpack non-iterable NoneType object
+[17/10/2024 18:12:07] - [ERRORE] get_time_from_date_created_and_ended_course() - time data '10/10/2024 15:00' does not match format '%d-%m-%Y %H:%M'
+[17/10/2024 18:12:07] - [ERRORE] generate_excel_report() - object of type 'NoneType' has no len()
+[17/10/2024 18:17:18] - [ERRORE] generate_excel_report() - [Errno 13] Permission denied: 'C:\\Users\\l.semproni\\Desktop\\generazione report excel/generazione report personalizzato/Report personalizzato.xlsx'
+[25/10/2024 16:53:06] - [ERRORE] set_value_position() - The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[25/10/2024 16:54:18] - [ERRORE] generate_excel_report() - operands could not be broadcast together with shapes (12,) (3,) 
